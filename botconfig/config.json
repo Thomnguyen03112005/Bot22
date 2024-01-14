@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "prefix": "!",
+  "youtubeCookie": "VISITOR_INFO1_LIVE=R_qi2x1CgIA; VISITOR_PRIVACY_METADATA=CgJWThIEGgAgXg%3D%3D; YSC=SmHrgn6eL1g; PREF=f7=4100&f4=4000000&tz=Asia.Saigon; HSID=AMiy-PT4KbLxO0aFa; SSID=AbvhjoHy0DWeFgTqB; APISID=8wXeESf89D9i_jvI/Au6wN-jJBR74PEWJL; SAPISID=UJxvdit_kuRRPO-b/ADp9kED_Qbc6Ibf4O; __Secure-1PAPISID=UJxvdit_kuRRPO-b/ADp9kED_Qbc6Ibf4O; __Secure-3PAPISID=UJxvdit_kuRRPO-b/ADp9kED_Qbc6Ibf4O; LOGIN_INFO=AFmmF2swRgIhANdnB2NDW-IHYQB4OM_FG0pUzJ3INg_im8Y0oTBDGl3AAiEAnli1L6UBwyXy0J3It2sz-hdVnWN9aOu_SEMgIlWY818:QUQ3MjNmd3lXN0FZcUl4VVhvZ1JKRHVSalZCeFlwdkVBNDhuS2ZTbkNqMVVZb0dEd2lLYlNIWG94VTdEcXVLZVZkQWNSbmZ1TW1ha1pVMnAxQXl0MGFSMjR1SFJTbWs1Zy1ISFB6R3JhdkQ5bjVhTFBETlpaTzMxdlMydjhyOW9jQk1RZDdSY2VrT3ZWZ0xEalpiS2R0dGJxdm1vMW5yQnRn; SID=g.a000fQjvIlLsu0_E6MZ2fjk3pOHWAfnWBkOM6jo92lu21hK5vGnxBaLPZaO1eQ8hRyMz4OlS0AACgYKAcwSAQASFQHGX2MiqBKZbjzqL0lPhPYCvUNQpRoVAUF8yKqT-JZbE7WpcQa9eIj9DAPL0076; __Secure-1PSID=g.a000fQjvIlLsu0_E6MZ2fjk3pOHWAfnWBkOM6jo92lu21hK5vGnxmtx5puhvCsd-KVeH43UJDQACgYKATISAQASFQHGX2MiUtKbddbHkSb51GIUngEOphoVAUF8yKo8FfyMLJpp5CpcBGlL2wla0076; __Secure-3PSID=g.a000fQjvIlLsu0_E6MZ2fjk3pOHWAfnWBkOM6jo92lu21hK5vGnxNIvDOQZURtXemtwipeTLgAACgYKAQ8SAQASFQHGX2MiOxqieLMis7xM6MOAyaku5RoVAUF8yKojQXw-ro-9YIJDy8Mqzn460076; __Secure-1PSIDTS=sidts-CjEBPVxjSpHOVSyKLFkhFMlZDtnkWBqgEapfbAkPYjog24Lj3nO892Mm0EWPJb2eQPiIEAA; __Secure-3PSIDTS=sidts-CjEBPVxjSpHOVSyKLFkhFMlZDtnkWBqgEapfbAkPYjog24Lj3nO892Mm0EWPJb2eQPiIEAA; CONSISTENCY=AKreu9ufeyxuqf8AkqySCJfn0d-N5RJTYPlU0m2SlNkMtj528SUvP6gH3dK5c9lgnn33OQMD43BtKB0zES6Ljv_V; SIDCC=ABTWhQFuM2A_J0EnOyQvYE7KvZ8FvH7hSZIJ44z5PGLBPmm1BBd_kAP1nus_4WJ5DHe34QlTJuU; __Secure-1PSIDCC=ABTWhQHBR8sA-brnWyIRF5yDKfhdA0mCJAuGlv9aJCdH-_5OTxtmz_TSAn57srWU0lmnakss5w; __Secure-3PSIDCC=ABTWhQE0EntGw2vY6aHgXdcGFbrvzrzLaK7u0G7umMlkdu_oJcuF7LpqHRBEcX3qsDsOsWb_Vs0",
+  "spotify_api": {
+        "enabled": false, "_COMMENT_": "Set it to false, if you want to scrape, when on true you can get spotify playlists with 100+ Tracks",
+        "clientSecret": "79077643d81d48fca0a685925ee364ac",
+        "clientId": "05b651611c704b0282705a5e6346a3b6"
+  },
+  "loadSlashsGlobal": true, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)"
+}
